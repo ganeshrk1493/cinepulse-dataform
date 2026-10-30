@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 config {
   type: "declaration",
   database: "cinepulse-analytics",
   schema: "cinepulse_bronze",
   name: "raw_imdb_basics",
   description: "Raw IMDb title basics external table pointing to GCS Parquet"
+=======
+config {
+  type: "declaration",
+  database: "cinepulse-analytics",
+  schema: "cinepulse_bronze",
+  name: "raw_imdb_basics",
+  description: "Raw IMDb title basics external table pointing to GCS Parquet"
+>>>>>>> refs/heads/main
 }
